@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "nikita": "node resources/js/nikita.js"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "file-system": "^2.2.2",
+        "node-fetch": "^3.3.1"
+    }
+}
